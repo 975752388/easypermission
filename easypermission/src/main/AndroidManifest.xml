@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zky.easypermission" >
+    <application>
+
+        <activity
+            android:name=".core.PermissionActivity"
+            android:theme="@style/MyTheme"
+            />
+    </application>
+</manifest>
